@@ -1,0 +1,6 @@
+2026-11-22 21:10:01 | Packet #1 | Source: 192.0.2.10 | Destination: 198.51.100.20 | Protocol: TCP | TCP | Source Port: 52341 | Destination Port: 443 | Size: 60 bytes
+2026-11-22 21:10:02 | Packet #2 | Source: 192.0.2.10 | Destination: 198.51.100.20 | Protocol: TCP | TCP | Source Port: 52341 | Destination Port: 443 | Size: 60 bytes
+2026-11-22 21:10:03 | Packet #3 | Source: 192.0.2.10 | Destination: 203.0.113.15 | Protocol: UDP | UDP | Source Port: 5353 | Destination Port: 5353 | Size: 80 bytes
+2026-11-22 21:10:04 | Packet #4 | Source: 192.0.2.10 | Destination: 203.0.113.15 | Protocol: UDP | UDP | Source Port: 5353 | Destination Port: 5353 | Size: 80 bytes
+2026-11-22 21:10:05 | Packet #5 | Source: 192.0.2.10 | Destination: 198.51.100.20 | Protocol: TCP | TCP | Source Port: 52341 | Destination Port: 443 | Size: 120 bytes
+2026-11-22 21:26:05 | Capture finished. Total packets: 0
